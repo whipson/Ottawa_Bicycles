@@ -1,0 +1,15 @@
+counter,name,lat,long,desc
+alexandra_bridge,Alexandra Bridge,45.430366,-75.704761,"Ottawa approach to the NCC Alexandra Bridge Bikeway. This counter was not operational for most of 2010 due to bridge construction. This is one of the more consistent counters, until the internal battery failed in August 2019."
+eastern_canal,Eastern Canal Pathway,45.420924,-75.685059999999993,NCC Eastern Canal Pathway approximately 100m north of the Corktown Bridge.
+ottawa_river,Ottawa River Pathway,45.411959,-75.723424,NCC Ottawa River Pathway approximately 100m east of the Prince of Wales Bridge. Canada Day in 2011 boasts the highest single day count of any counter.
+western_canal,Western Canal Pathway,45.40628,-75.681814,"NCC Western Canal Pathway approximately 200m north of “The Ritz”. Out of operation for much of 2018. MEC Bikefest on May 17, 2015 accounts for the large spike that day."
+laurier_bay,Laurier at Bay,45.415893,-75.705328,Laurier Segregated Bike lane just west of Bay. Minimal data available due to inactivity after 2014.
+laurier_lyon,Laurier at Lyon,45.417036,-75.702613,Laurier Segregated Bike lane just east of Lyon. No longer in operation since 2016.
+laurier_metcalfe,Laurier at Metcalfe,45.41979,-75.697623,Laurier Segregated Bike lane just west of Metcalfe. Construction in late 2012 accounts for unusual dip in counts.
+somerset_bridge,Somerset Bridge,45.420512,-75.684625,Somerset bridge over O-Train west-bound direction only. Inexplicably large spike in 2012 followed by a typical seasonal pattern. Inactive since late 2018.
+otrain_young,OTrain at Young,45.402859,-75.71276,O-Train Pathway just north of Young Street. Minimal data available due to inactivity after 2016. See O-Train at Gladstone counter for a better estimate.
+otrain_gladstone,OTrain at Gladstone,45.404599,-75.714812,O-Train Pathway just north of Gladstone Avenue. In operation since mid-2013. Shows unusual spike in November of 2017.
+otrain_bayview,OTrain at Bayview,45.408636,-75.723644,O-Train Pathway just north of Bayview Station. In operation since mid-2013. Trending upward.
+portage_bridge,Portage Bridge,45.42198,-75.713324,"Portage Bridge connecting Gatineau to Ottawa. Installed in late 2013, this counter registered relatively high traffic but seems to have experienced outages during Winter months. Inactive since early 2016."
+adawe_crossing_a,Adawe Crossing A,45.426282,-75.670234,"Adàwe Crossing Bridge bike lane. This counter is one of a pair on this pedestrian bridge. Installed in 2016, it seems to have experienced an outage during the Winter of its inaugural year."
+adawe_crossing_b,Adawe Crossing B,45.426575,-75.669765,"The second of two counters on the Adàwe Crossing Bridge. This counter may pick up more pedestrian than bike traffic, as suggested by the trend over time."
